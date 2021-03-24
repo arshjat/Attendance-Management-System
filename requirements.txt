@@ -214,7 +214,7 @@ rake-nltk==1.0.4
 requests==2.11.1
 requests-toolbelt==0.7.0
 rope==0.11.0
-rsa==4.0
+rsa==4.1
 ruamel-yaml==0.15.46
 s3transfer==0.1.13
 scikit-image==0.14.1
