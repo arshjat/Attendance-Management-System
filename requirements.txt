@@ -52,7 +52,7 @@ decorator==4.3.2
 defusedxml==0.5.0
 dill==0.2.8.2
 distributed==1.25.3
-Django==2.1.5
+Django==2.2.24
 docutils==0.14
 entrypoints==0.3
 et-xmlfile==1.0.1
