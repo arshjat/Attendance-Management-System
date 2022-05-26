@@ -255,7 +255,7 @@ tqdm==4.29.1
 traceback2==1.4.0
 traitlets==4.3.2
 typing==3.6.4
-ujson==1.35
+ujson==5.2.0
 unicodecsv==0.14.1
 unittest2==1.1.0
 urllib3==1.24.1
