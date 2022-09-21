@@ -200,7 +200,7 @@ pytest-doctestplus==0.2.0
 pytest-openfiles==0.3.2
 pytest-remotedata==0.3.1
 python-dateutil==2.7.5
-python-jwt==2.0.1
+python-jwt==3.3.4
 python-pptx==0.6.17
 pytz==2018.9
 PyWavelets==1.0.1
